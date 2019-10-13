@@ -1,2 +1,1 @@
-# sample
-sample for remote repository
+test
